@@ -1,2 +1,2 @@
 # hello-world
-repo tâpj làm vs g
+repo tập làm với github 
